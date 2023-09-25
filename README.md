@@ -11,3 +11,7 @@ Github:
 - https://github.com/keras-team/keras-core
 - https://github.com/keras-team/keras-nlp
 - https://github.com/keras-team/keras-cv 
+
+Slides used for workshop
+- https://docs.google.com/presentation/d/1iNvzNPvLNBNUNk4ipD9ZjVKbq7eVNZuii_rOOT1NUb8/edit#slide=id.g278f1cd2f3c_2_193
+  
